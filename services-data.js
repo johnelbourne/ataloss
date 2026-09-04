@@ -11727,12 +11727,12 @@ window.sectionData['national'] = [
   },
   {
     "id": "67d1ccbac950cc133b06b6e1",
-    "fullUrl": "https://www.ataloss.org/more-info/bereavement-services/scottys-little-soldiers",
+    "fullUrl": "https://www.ataloss.org/more-info/bereavement-services/scottys",
     "title": "Scotty's - The Military Bereavement Charity",
     "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Scotty’s - the military bereavement charity, supports and empowers anyone affected by military-connected bereavement.</p>",
     "featured": false,
     "publishOn": 1626518760050,
-    "updatedOn": 1788521781067,
+    "updatedOn": 1788522082513,
     "catWho": [
       "Sibling",
       "Parent"
