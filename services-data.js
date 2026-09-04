@@ -11732,10 +11732,12 @@ window.sectionData['national'] = [
     "excerpt": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Scotty’s - the military bereavement charity, supports and empowers anyone affected by military-connected bereavement.</p>",
     "featured": false,
     "publishOn": 1626518760050,
-    "updatedOn": 1788522082513,
+    "updatedOn": 1788522433247,
     "catWho": [
       "Sibling",
-      "Parent"
+      "Parent",
+      "Adult child",
+      "Friend/colleague"
     ],
     "catCDeath": [
       "Military action"
